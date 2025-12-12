@@ -1,12 +1,13 @@
+import ScrollToPin from "./pages/ScrollToPin"
 import ScrollTrigg from "./pages/ScrollTrigg"
 
 function App() {
 
   return (
     <>
-    <ScrollTrigg></ScrollTrigg>
+    <ScrollToPin></ScrollToPin>
     </>
   )
 }
 
-export default App
+export default App;
